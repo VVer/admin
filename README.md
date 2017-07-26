@@ -24,10 +24,7 @@ admin项目实现了基础的用户/菜单/角色/权限功能，可以直接基
 ![image](https://github.com/jonsychen/admin/raw/master/etc/role.png)
 ### 用户管理
 ![image](https://github.com/jonsychen/admin/raw/master/etc/user.png)
-## 联系我
-    Email: jonsychen@hotmail.com/i@jonsy.me
-    OICQ: 903352005
-    WeChat: Jonsychen_2013 
+
 
 
 
